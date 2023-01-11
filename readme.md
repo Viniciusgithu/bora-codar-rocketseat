@@ -1,4 +1,4 @@
-# Projeto #borCodar
+# Projeto #boracodar
 A @rocketseat lançou um projeto no ano de 2023 #boraCodar, onde eles lançam vários desafios para podermos implentá-los. 
 
 ## 🚀 Começando
