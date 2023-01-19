@@ -26,13 +26,13 @@ Ter sede de conhecimento
       <td>01</td>
       <td>Layout player de música</td>
       <td>11/01/23</td>
-      <td><a href="">🔗</a></td>
+      <td><a href="https://layout-player-music.vercel.app/">🔗</a></td>
     </tr>
     <tr>
       <td>02</td>
       <td>Card de produto - Sofá</td>
       <td>19/01/23</td>
-      <td><a href="">🔗</a></td>
+      <td><a href="https://product-card-eight.vercel.app/">🔗</a></td>
     </tr>
   </tbody>
 </table>
